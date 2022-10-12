@@ -18,7 +18,7 @@ export class BookListComponent implements OnInit {
         'Mystery',
         'https://source.unsplash.com/50x50/?mystery,book'
     ),
-    new Book(
+     new Book(
       'Book of More Testing',
       'John Smith',
       'Drama',
